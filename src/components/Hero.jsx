@@ -1,6 +1,6 @@
 
 import React from "react";
-import profilePic from "../assests/profile3.jpg"; 
+import profilePic from "../assests/KevinRushProfile.jpg"; 
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
