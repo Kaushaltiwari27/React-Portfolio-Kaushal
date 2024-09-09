@@ -56,7 +56,7 @@ const Hero = () => {
             initial={{x:100,opacity:0}}
             animate={{x:0,opacity:1}}
             transition={{duration:1,delay:0.5}}
-            className="h-[500px] w-[500px] rounded-[200px]"
+            className=""
              src={profilePic} alt="Kaushal Tiwari" />
           </div>
         </div>
